@@ -9,7 +9,7 @@ html{
 }
 
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.5),#883890), url(./images/banner.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),#883890), url(./images/braids.JPG);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -250,6 +250,7 @@ padding-bottom: 70px;
 }
 .single-service img{
     width: 100%;
+    /* height: 400px; */
     border-radius: 7px;
 }
 .overlay{
